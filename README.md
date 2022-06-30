@@ -1,8 +1,8 @@
 <!-- DIV DE STATUS DO GITHUB -->
 <div align="center">
   <a href="https://github.com/Matheuscoe07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheuscoe7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscoe7&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheuscoe07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscoe07&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <!-- COBRINHA -->
