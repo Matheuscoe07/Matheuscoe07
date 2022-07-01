@@ -18,7 +18,7 @@
     🧍‍♂️ Ele/Dele
     ✏️ Engenharia da Computação - Instituto Mauá de Tecnologia
     👨‍💻 Habilidades: python <3, Java <3, Front-End <3, R, C e Matlab
-    🔧 Ferramentas: VScode, Atom, CodeBlocks, Replit, RStudio
+    🔧 Ferramentas: VScode, Atom, CodeBlocks, Replit, RStudio, Matlab/Octave
     🌎 Idiomas: Português, Inglês e Espanhol
     🍝 Hobbies: cozinhar, pintar, ler, jogar
     📽 Fã do retrô
