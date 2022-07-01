@@ -28,6 +28,10 @@
 <!-- RODAPÉ -->
 <div align="center">
 
+
+
+</div>
+
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
@@ -35,7 +39,6 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
-</div>
   
 <!--
 *Matheuscoe07/Matheuscoe07* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
