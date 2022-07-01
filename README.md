@@ -1,3 +1,8 @@
+<!-- INTRODUÇÃO -->
+<div>
+<img src="https://github.com/Matheuscoe07/Matheuscoe07/blob/main/imagens/BemVindos.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+</div>
+
 <!-- DIV DE STATUS DO GITHUB -->
 <div align="center">
   <a href="https://github.com/rafaballerini">
