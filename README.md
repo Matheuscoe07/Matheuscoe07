@@ -24,7 +24,16 @@
 ![Snake animation](https://github.com/Matheuscoe07/Matheuscoe07/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
+ 
+<!-- RODAPÉ -->
+<div>
+<img src="https://github.com/Matheuscoe07/Matheuscoe07/blob/main/imagens/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://github.com/Matheuscoe07/Matheuscoe07/blob/main/imagens/InternetExplorer.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</div>
+  
 <!--
 *Matheuscoe07/Matheuscoe07* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
