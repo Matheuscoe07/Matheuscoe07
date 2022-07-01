@@ -27,8 +27,10 @@
  
 <!-- RODAPÉ -->
 <div align="center">
-<img src="https://github.com/Matheuscoe07/Matheuscoe07/blob/main/imagens/notepad.gif" alt="Site created with Notepad" height="1000"/>
-<img src="https://github.com/Matheuscoe07/Matheuscoe07/blob/main/imagens/InternetExplorer.gif" alt="Microsoft Internet Explorer" height="1000"/>
+  
+<img src="https://github.com/Matheuscoe07/Matheuscoe07/blob/main/imagens/notepad.gif" alt="Site created with Notepad"/>
+<img src="https://github.com/Matheuscoe07/Matheuscoe07/blob/main/imagens/InternetExplorer.gif" alt="Microsoft Internet Explorer"/>
+
 </div>
   
 <!--
