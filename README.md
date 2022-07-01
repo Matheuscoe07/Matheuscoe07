@@ -27,9 +27,9 @@
  
 <!-- RODAPÉ -->
 <div align="center">
-<img src="https://github.com/Matheuscoe07/Matheuscoe07/blob/main/imagens/notepad.gif" alt="Site created with Notepad"/>
+<img src="https://github.com/Matheuscoe07/Matheuscoe07/blob/main/imagens/notepad.gif" alt="Site created with Notepad" height="100%"/>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://github.com/Matheuscoe07/Matheuscoe07/blob/main/imagens/InternetExplorer.gif" alt="Microsoft Internet Explorer" />
+<img src="https://github.com/Matheuscoe07/Matheuscoe07/blob/main/imagens/InternetExplorer.gif" alt="Microsoft Internet Explorer" height="100%"/>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 </div>
   
