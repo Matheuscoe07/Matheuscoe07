@@ -13,7 +13,7 @@
 
 <!-- DIV DE STATUS DO GITHUB -->
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Matheuscoe07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheuscoe07&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscoe07&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
@@ -26,9 +26,8 @@
 </div>
  
 <!-- RODAPÉ -->
-<div>
-<img src="https://github.com/Matheuscoe07/Matheuscoe07/blob/main/imagens/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- "margin-right: whatever;" -->
+<div align="center">
+<img src="https://github.com/Matheuscoe07/Matheuscoe07/blob/main/imagens/notepad.gif" alt="Site created with Notepad"/>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://github.com/Matheuscoe07/Matheuscoe07/blob/main/imagens/InternetExplorer.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
