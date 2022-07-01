@@ -1,7 +1,16 @@
 <!-- INTRODUÇÃO -->
-<div>
-<img src="https://github.com/Matheuscoe07/Matheuscoe07/blob/main/imagens/BemVindos.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+<div align="center">
+<img src="https://github.com/Matheuscoe07/Matheuscoe07/blob/main/imagens/BemVindos.png" style="max-width: 100%;" alt="Bem vindo ao meu GitHub!" />
+<br />
+<br />
+<img width="680" src="https://github.com/Matheuscoe07/Matheuscoe07/blob/main/imagens/Apresenta%C3%A7%C3%A3o.gif" alt="Welcome to my Github Profile" />
+<br />
+<br />
+<br />
+<br />
 </div>
+
+<!-- INFORMAÇÕES -->
 
 <!-- DIV DE STATUS DO GITHUB -->
 <div align="center">
